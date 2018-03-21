@@ -13,6 +13,6 @@ Additional posts I've written about Windfall Data:
 * [Scaling Data Science at Windfall](https://medium.com/windfalldata/scaling-data-science-at-windfall-55f5f23698e1)
 * [Governance in Data Science](https://medium.com/windfalldata/governance-in-data-science-710ff7e6ed94)
 
-Here's a sample of the type of analysis performed at Windfall Data:
+Here's a sample of the type of analysis performed at Windfall Data, modeling archetypes by net worth tiers:
 
 ![NW Clusters](https://cdn-images-1.medium.com/max/800/1*aP6gLHig2MSXttsYtVjuFg.png "NW Clusters")
