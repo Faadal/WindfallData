@@ -12,3 +12,7 @@ Additional posts I've written about Windfall Data:
 * [Functions of Data Science](https://towardsdatascience.com/functions-of-data-science-4afd5341a659)
 * [Scaling Data Science at Windfall](https://medium.com/windfalldata/scaling-data-science-at-windfall-55f5f23698e1)
 * [Governance in Data Science](https://medium.com/windfalldata/governance-in-data-science-710ff7e6ed94)
+
+
+
+![alt text](https://cdn-images-1.medium.com/max/800/1*aP6gLHig2MSXttsYtVjuFg.png "Logo Title Text 1")
